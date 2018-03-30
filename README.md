@@ -24,4 +24,6 @@ This portal allows the manager to view all products, view items with a quantity 
 
 
 ##Demo Video of Code in Action
+------------------------------
+
 https://drive.google.com/file/d/1kNVr0QV3KuOvteEp7l_f_yJ-uRbATaH3/view 
