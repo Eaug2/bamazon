@@ -15,12 +15,12 @@ This portal allows the manager to view all products, view items with a quantity 
 
 ##Technologies Used
 -------------------
-*Javascript
-*Node.js
-*MySQL
-*npm packages
-    *mysql
-    *inquirer
+* Javascript
+* Node.js
+* MySQL
+* npm packages
+    * mysql
+    * inquirer
 
 
 ##Demo Video of Code in Action
